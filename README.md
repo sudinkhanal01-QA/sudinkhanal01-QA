@@ -4,6 +4,7 @@
 I love making software reliable and user-friendly through thorough testing 🧪✨. From writing detailed test cases to automating workflows, I focus on understanding software behaviour and ensuring quality at every step of the development process. I enjoy identifying bugs, improving performance, and making systems more stable and efficient.
 
 🛠 Skills :
+
 ✔ Test Strategy & Planning
 
 ✔ Manual Testing: Functional, Regression, Exploratory
