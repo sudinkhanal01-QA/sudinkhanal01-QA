@@ -5,14 +5,21 @@ I love making software reliable and user-friendly through thorough testing 🧪�
 
 🛠 Skills :
 ✔ Test Strategy & Planning
+
 ✔ Manual Testing: Functional, Regression, Exploratory
+
 ✔ Automation: Selenium WebDriver with Java, POM basics
+
 ✔ API Testing: Postman
+
 ✔ SQL for Data Validation
+
 ✔ Performance Testing with JMeter
+
 ✔ Python
 
 📌 Projects :
+
 🛒 Sauce Demo Automation: Automated key workflows like login, product selection, and checkout using Selenium WebDriver with Java. This strengthened my skills in UI automation, synchronization handling, and structured test design.
 
 I have also worked on academic and personal projects, including a Lost & Found web portal and embedded system projects, which enhanced my coding, problem-solving , and development skills.
